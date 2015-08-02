@@ -1,6 +1,3 @@
-[submodule "omni4-follower"]
-	path = omni4-follower
-	url = https://github.com/WCRSyyc/omni4-follower.git
 [submodule "circle-lf-sensor-test"]
 	path = circle-lf-sensor-test
 	url = https://github.com/WCRSyyc/circle-lf-sensor-test.git
@@ -10,3 +7,6 @@
 [submodule "tripod-dir-test"]
 	path = tripod-dir-test
 	url = https://github.com/WCRSyyc/tripod-dir-test.git
+[submodule "omni3-follower"]
+	path = omni3-follower
+	url = https://github.com/WCRSyyc/omni3-follower.git
